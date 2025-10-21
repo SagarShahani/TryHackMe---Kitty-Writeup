@@ -1,7 +1,6 @@
-# TryHackMe---Kitty-Writeup
+🐱 TryHackMe---Kitty-Writeup
 Difficulty: Medium Full Detailed Writeup
-# 🐱 TryHackMe — Kitty Writeup
-Difficulty: Medium  
+  
 Category: Web / Privilege Escalation / Linux  
 Author: hadrian3689  
 
